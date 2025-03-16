@@ -32,4 +32,4 @@ pip install ultralytics opencv-python torch pillow tkinter
 
 ### **3️⃣ Run the System**
 ```bash
-python cam.py
+python main.py
