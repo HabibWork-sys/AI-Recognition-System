@@ -33,3 +33,6 @@ pip install ultralytics opencv-python torch pillow tkinter
 ### **3️⃣ Run the System**
 ```bash
 python main.py
+
+### **install cuda**
+https://developer.nvidia.com/cuda-toolkit
