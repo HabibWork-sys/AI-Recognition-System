@@ -25,3 +25,11 @@
 ```bash
 git clone https://github.com/yourusername/AI-Recognition-System.git
 cd AI-Recognition-System
+
+### **2️⃣ Install Dependencies**
+```bash
+pip install ultralytics opencv-python torch pillow tkinter
+
+### **3️⃣ Run the System**
+```bash
+python cam.py
